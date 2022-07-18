@@ -1667,6 +1667,7 @@ tr , td , th {
     box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.16);
     border-radius: 15px;
 	background-color: white;
+	overflow: hidden;
 }
 .noti{
 	border-bottom: 1px solid #64C4A4;
@@ -1721,10 +1722,11 @@ tr , td , th {
 }
 .load{
 	background-color: #20C6A7;
-	padding: 15px 15px;
+	padding: 5px 12px;
 	border-radius: 7px;
 	cursor: pointer;
 	font-weight: 500;
+	font-size: 25px;
 }
 .city{
 	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
